@@ -12,7 +12,7 @@
 # Function to log errors
 log_error() {
   local timestamp=$(date "+%Y-%m-%d %H:%M:%S")
-  local error_log="logs/error.log"
+  local error_log="/home/node/TaiCLIMardi/logs/error.log"
   echo "[${timestamp}] $1" | tee -a "$error_log"
 }
 
