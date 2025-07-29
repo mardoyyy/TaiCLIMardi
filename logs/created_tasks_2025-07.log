@@ -1,0 +1,70 @@
+D2P Operational DBA 1 01072025 | 2025-07-01 | 08:00 | 240
+D2P Operational DBA 2 01072025 | 2025-07-01 | 13:00 | 240
+D2P Operational DBA 1 02072025 | 2025-07-02 | 08:00 | 240
+D2P Operational DBA 2 02072025 | 2025-07-02 | 13:00 | 240
+D2P Operational DBA 1 03072025 | 2025-07-03 | 08:00 | 240
+D2P Operational DBA 2 03072025 | 2025-07-03 | 13:00 | 240
+D2P Operational DBA 1 04072025 | 2025-07-04 | 08:00 | 240
+D2P Operational DBA 2 04072025 | 2025-07-04 | 13:00 | 240
+D2P Operational DBA 1 07072025 | 2025-07-07 | 08:00 | 240
+D2P Operational DBA 2 07072025 | 2025-07-07 | 13:00 | 240
+D2P Operational DBA 1 08072025 | 2025-07-08 | 08:00 | 240
+D2P Operational DBA 2 08072025 | 2025-07-08 | 13:00 | 240
+D2P Operational DBA 1 09072025 | 2025-07-09 | 08:00 | 240
+D2P Operational DBA 2 09072025 | 2025-07-09 | 13:00 | 240
+D2P Operational DBA 1 10072025 | 2025-07-10 | 08:00 | 240
+D2P Operational DBA 2 10072025 | 2025-07-10 | 13:00 | 240
+D2P Operational DBA 1 11072025 | 2025-07-11 | 08:00 | 240
+D2P Operational DBA 2 11072025 | 2025-07-11 | 13:00 | 240
+D2P Operational DBA 1 14072025 | 2025-07-14 | 08:00 | 240
+D2P Operational DBA 2 14072025 | 2025-07-14 | 13:00 | 240
+D2P Operational DBA 1 15072025 | 2025-07-15 | 08:00 | 240
+D2P Operational DBA 2 15072025 | 2025-07-15 | 13:00 | 240
+D2P Operational DBA 1 16072025 | 2025-07-16 | 08:00 | 240
+D2P Operational DBA 2 16072025 | 2025-07-16 | 13:00 | 240
+D2P Operational DBA 1 17072025 | 2025-07-17 | 08:00 | 240
+D2P Operational DBA 2 17072025 | 2025-07-17 | 13:00 | 240
+D2P Operational DBA 1 18072025 | 2025-07-18 | 08:00 | 240
+D2P Operational DBA 2 18072025 | 2025-07-18 | 13:00 | 240
+D2P Operational DBA 1 21072025 | 2025-07-21 | 08:00 | 240
+D2P Operational DBA 2 21072025 | 2025-07-21 | 13:00 | 240
+D2P Operational DBA 1 22072025 | 2025-07-22 | 08:00 | 240
+D2P Operational DBA 2 22072025 | 2025-07-22 | 13:00 | 240
+Support DMS Padi 22-07 | 2025-07-22 | 09:05 | 10
+Support DMS Padi 22-07 | 2025-07-22 | 15:25 | 10
+Support DMS bigbox_bigvision | 2025-07-18 | 15:20 | 10
+Support DMS ihsmart 18-07 | 2025-07-18 | 09:25 | 10
+Support DMS Padi | 2025-07-17 | 08:50 | 10
+Support DMS Padi | 2025-07-17 | 15:15 | 10
+Support DMS Padi | 2025-07-15 | 12:45 | 10
+Support DMS Padi | 2025-07-15 | 17:35 | 10
+Support DMS Padi | 2025-07-15 | 08:55 | 10
+Support DMS Padi | 2025-07-15 | 10:50 | 10
+Support DMS Padi | 2025-07-15 | 13:50 | 10
+Support DMS Bigbox_bigsocial | 2025-07-15 | 15:05 | 10
+Query Check Bigbox Bigvision dan Sirkulir BA | 2025-07-15 | 12:50 | 30
+Adjust max open files mongo maas2 prod | 2025-07-18 | 16:55 | 40
+Support jira ticket bigbox telis | 2025-07-22 | 09:05 | 30
+D2P Operational DBA 1 23072025 | 2025-07-23 | 08:00 | 240
+D2P Operational DBA 2 23072025 | 2025-07-23 | 13:00 | 240
+D2P Operational DBA 1 24072025 | 2025-07-24 | 08:00 | 240
+D2P Operational DBA 2 24072025 | 2025-07-24 | 13:00 | 240
+D2P Operational DBA 1 25072025 | 2025-07-25 | 08:00 | 240
+D2P Operational DBA 2 25072025 | 2025-07-25 | 13:00 | 240
+D2P Operational DBA 1 28072025 | 2025-07-28 | 08:00 | 240
+D2P Operational DBA 2 28072025 | 2025-07-28 | 13:00 | 240
+Checkpoint Weekly Satu Data Digital for Product PADI UMKM (July Week 4) | 2025-07-21 | 10:00 | 60
+POC Pijarsekolah Deployment | 2025-07-23 | 14:00 | 90
+Discussion RKAP Cost Infras Forecast for 2026 | 2025-07-23 | 16:00 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-23 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-23 | 09:30 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-23 | 11:00 | 60
+Checkpoint Migrasi Netmonk Product Family | 2025-07-23 | 14:00 | 60
+Kebutuhan Infra BSP | 2025-07-23 | 14:00 | 60
+Infra cost INS produk RKAP 2026 | 2025-07-23 | 16:00 | 60
+Diskusi OKR 2026 | 2025-07-23 | 11:00 | 60
+PlayCourt BiWeekly Sync JKT - BDG Team 2 (July Week 4) | 2025-07-25 | 09:00 | 60
+Discussion POC PijarSekolah with Huawei Cloud Part 2 | 2025-07-25 | 14:00 | 120
+Checkpoint - BSP Product Family | 2025-07-24 | 14:30 | 60
+Discussion OCA Infra Resource Database Optimization in Alibaba Cloud | 2025-07-25 | 10:30 | 60
+Review Optimasi database Production OCA | 2025-07-25 | 10:30 | 60

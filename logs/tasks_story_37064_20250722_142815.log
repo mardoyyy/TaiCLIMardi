@@ -1,0 +1,384 @@
+Task List for User Story #37064
+Story: Playcourt D2D Database Operation & Maintenance (ID: 738475)
+Project: PLAY (ID: 265)
+Generated: Tue 22 Jul 2025 02:28:15 PM WIB
+Total Tasks: 29
+=================================================
+
+Task #37065 (ID: 542375)
+  Subject: Query Check Antares ANSC 16-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 09:00
+  Time Spent: 60
+  ---
+
+Task #37066 (ID: 542379)
+  Subject: Query Check Antares Manufacture EMC 16-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 10:00
+  Time Spent: 15
+  ---
+
+Task #37067 (ID: 542381)
+  Subject: Query Check Antares Manufacture User Service 16-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 11:30
+  Time Spent: 15
+  ---
+
+Task #37068 (ID: 542383)
+  Subject: Query Check Netmonk Web Analytic 16-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 10:00
+  Time Spent: 90
+  ---
+
+Task #37069 (ID: 542387)
+  Subject: Support Recreate Database Antares Manufacture 16-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 13:00
+  Time Spent: 30
+  ---
+
+Task #37070 (ID: 542389)
+  Subject: Restore Database Netmonk Portal Stage 16-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 16:00
+  Time Spent: 60
+  ---
+
+Task #37071 (ID: 542391)
+  Subject: Support Integrasi Kong X PostgreSQL 16-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 16:00
+  Time Spent: 90
+  ---
+
+Task #37072 (ID: 542393)
+  Subject: Query Check Netmonk Portal
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-16
+  Start Time: 15:30
+  Time Spent: 30
+  ---
+
+Task #37073 (ID: 542394)
+  Subject: Cleansing WAL Log node1 postgre MAAS
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-17
+  Start Time: 02:30
+  Time Spent: 15
+  ---
+
+Task #37099 (ID: 542833)
+  Subject: Support DMS EDU 17-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-17
+  Start Time: 09:30
+  Time Spent: 10
+  ---
+
+Task #37100 (ID: 542834)
+  Subject: Support DMS Padi 17-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-17
+  Start Time: 09:30
+  Time Spent: 10
+  ---
+
+Task #37101 (ID: 542835)
+  Subject: Support DMS Taiga 17-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-17
+  Start Time: 10:00
+  Time Spent: 10
+  ---
+
+Task #37102 (ID: 542836)
+  Subject: Support DMS BigAssistant 17-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-17
+  Start Time: 11:00
+  Time Spent: 10
+  ---
+
+Task #37103 (ID: 542837)
+  Subject: Support DMS FIN MPGDB 17-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-17
+  Start Time: 11:30
+  Time Spent: 10
+  ---
+
+Task #37104 (ID: 542840)
+  Subject: Support Bytebase Netmonk 17-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-17
+  Modified: 2025-07-17
+  Activity Date: 2025-07-17
+  Start Time: 10:00
+  Time Spent: 10
+  ---
+
+Task #37111 (ID: 544032)
+  Subject: Ticket Bytebase Tomps Prod 18-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-18
+  Modified: 2025-07-18
+  Activity Date: 2025-07-18
+  Start Time: 13:00
+  Time Spent: 10
+  ---
+
+Task #37112 (ID: 544033)
+  Subject: Ticket Bytebase Outline_Wiki 18-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-18
+  Modified: 2025-07-18
+  Activity Date: 2025-07-18
+  Start Time: 13:00
+  Time Spent: 10
+  ---
+
+Task #37113 (ID: 544034)
+  Subject: Ticket DMS FIN 18-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-18
+  Modified: 2025-07-18
+  Activity Date: 2025-07-18
+  Start Time: 13:30
+  Time Spent: 10
+  ---
+
+Task #37114 (ID: 544035)
+  Subject: Create Database ALTIX 18-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-18
+  Modified: 2025-07-18
+  Activity Date: 2025-07-18
+  Start Time: 02:30
+  Time Spent: 30
+  ---
+
+Task #37115 (ID: 544036)
+  Subject: Add PII & Security Feature DMS on Instance MySQL BSP 18-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-18
+  Modified: 2025-07-18
+  Activity Date: 2025-07-18
+  Start Time: 14:00
+  Time Spent: 15
+  ---
+
+Task #37116 (ID: 544037)
+  Subject: Rergrant User Netmonk_Portal 18-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-18
+  Modified: 2025-07-18
+  Activity Date: 2025-07-18
+  Start Time: 14:00
+  Time Spent: 15
+  ---
+
+Task #37191 (ID: 545599)
+  Subject: Ticket DMS Bigvision 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 09:00
+  Time Spent: 10
+  ---
+
+Task #37192 (ID: 545600)
+  Subject: Support Troubleshooting TPN 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 10:00
+  Time Spent: 15
+  ---
+
+Task #37193 (ID: 545601)
+  Subject: Ticket Bytebase Netmonk Portal 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 10:30
+  Time Spent: 10
+  ---
+
+Task #37196 (ID: 545849)
+  Subject: Ticket DMS Padi 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 11:30
+  Time Spent: 10
+  ---
+
+Task #37197 (ID: 545853)
+  Subject: Create Database hoppscotch Stage MAAS 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 13:30
+  Time Spent: 30
+  ---
+
+Task #37198 (ID: 545874)
+  Subject: Troubleshoot netmonk_portal 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 14:00
+  Time Spent: 30
+  ---
+
+Task #37199 (ID: 545875)
+  Subject: Troubleshoot DMS Pijar 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 13:30
+  Time Spent: 10
+  ---
+
+Task #37202 (ID: 545916)
+  Subject: Support Bytebase hoppscotch 21-07
+  Status: Done
+  Assigned to: Unassigned (ID: 190)
+  Closed: true
+  Blocked: false
+  Created: 2025-07-21
+  Modified: 2025-07-22
+  Activity Date: 2025-07-21
+  Start Time: 15:30
+  Time Spent: 15
+  ---
+

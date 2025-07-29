@@ -1,0 +1,20 @@
+[2025-06-30 09:11:44] Error: No input file provided
+[2025-06-30 09:11:49] Authentication failed. Please check your credentials in .env file.
+[2025-06-30 09:13:17] Authentication failed. Please check your credentials in .env file.
+[2025-06-30 09:13:44] Authentication failed. Please check your credentials in .env file.
+[2025-06-30 09:15:37] Failed to fetch Project ID from Project Slug Playcourt
+[2025-06-30 09:15:37] Error: {"_error_message": ""}
+[2025-06-30 09:51:25] Error: No input file provided
+[2025-06-30 09:53:43] Failed to fetch Story ID for Story Reference ID D2P Operational DBA 956144 1 02 June 2025 | 2025-06-02 | 08:00 | 240
+[2025-06-30 09:53:43] Error: <html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+[2025-07-11 11:29:06] Authentication failed. Please check your credentials in .env file.
+[2025-07-28 18:00:42] Error: No user story reference ID provided
+[2025-07-28 18:11:55] Failed to fetch tasks for story ID 735890 (ref: 36629)
+[2025-07-28 18:11:55] Error: {"_error_message": "Page is not 'last', nor can it be converted to an int."}
+[2025-07-28 18:34:46] Error: Input file '36629' not found!

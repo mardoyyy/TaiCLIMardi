@@ -1,0 +1,16 @@
+36629						
+Checkpoint Weekly Satu Data Digital for Product PADI UMKM (July Week 4) | 2025-07-21 | 10:00 | 60
+POC Pijarsekolah Deployment | 2025-07-23 | 14:00 | 90
+Discussion RKAP Cost Infras Forecast for 2026 | 2025-07-23 | 16:00 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-23 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-23 | 09:30 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-23 | 11:00 | 60
+Checkpoint Migrasi Netmonk Product Family | 2025-07-23 | 14:00 | 60
+Kebutuhan Infra BSP | 2025-07-23 | 14:00 | 60
+Infra cost INS produk RKAP 2026 | 2025-07-23 | 16:00 | 60
+Diskusi OKR 2026 | 2025-07-23 | 11:00 | 60
+PlayCourt BiWeekly Sync JKT - BDG Team 2 (July Week 4) | 2025-07-25 | 09:00 | 60
+Discussion POC PijarSekolah with Huawei Cloud Part 2 | 2025-07-25 | 14:00 | 120
+Checkpoint - BSP Product Family | 2025-07-24 | 14:30 | 60
+Discussion OCA Infra Resource Database Optimization in Alibaba Cloud | 2025-07-25 | 10:30 | 60
+Review Optimasi database Production OCA | 2025-07-25 | 10:30 | 60

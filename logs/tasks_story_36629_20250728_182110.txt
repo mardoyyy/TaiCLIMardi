@@ -1,0 +1,229 @@
+36629
+Sosialization SSL Update for telkom.co.id Domain with DIT and All Product Team | 2025-07-01 | 13:30 | 90
+PlayCourt BiWeekly Sync JKT - BDG Team 1 (July Week 1) | 2025-07-02 | 09:00 | 60
+Checkpoint Migration Antares Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-02 | 11:00 | 60
+Discussion LLM Observability with TrueWatch x DAG x BigEngine | 2025-07-02 | 13:00 | 90
+Checkpoint Migration Netmonk Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-02 | 14:00 | 60
+Sosialisasi rencana update SSL Cert domain.telkom.co.id | 2025-07-01 | 13:30 | 90
+Biweekly Playcourt | 2025-07-02 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-02 | 11:00 | 60
+LLM Observability with Truewatch | 2025-07-02 | 13:00 | 90
+Review task internship talent related to Form request for Personal Data DTP Playcourt (UU PDP) | 2025-07-01 | 11:00 | 60
+Sosialisasi rencana update SSL Cert domain.telkom.co.id | 2025-07-01 | 13:30 | 90
+Biweekly Meetup Internal Playcourt | 2025-07-02 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-02 | 11:00 | 60
+LLM Observability Discussion with Truewatch | 2025-07-02 | 13:00 | 90
+Checkpoint Netmonk Product Family | 2025-07-02 | 14:00 | 120
+Rehearsal Test Migration BigVision | 2025-07-02 | 16:00 | 120
+Checkpoint Migration OCA Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-03 | 09:00 | 60
+Checkpoint Migration BSP Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-03 | 14:00 | 60
+Checkpoint Aktivitas PM-Q2 dan Pengecekan Cluster Openstack | 2025-06-30 | 10:00 | 60
+Sosialisasi rencana update SSL Cert domain.telkom.co.id | 2025-07-01 | 13:30 | 150
+Biweekly Playcourt | 2025-07-02 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-02 | 11:00 | 60
+LLLM Observability with Truewatch | 2025-07-02 | 13:00 | 90
+Checkpoint Netmonk Product Family | 2025-07-02 | 14:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-03 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-03 | 09:00 | 60
+Checkpoint - BSP Product Family | 2025-07-03 | 14:00 | 60
+Checkpoint Migrasi OCA Product Family - 2025-07-03 | 2025-07-03 | 10:00 | 60
+Checkpoint - BSP Product Family - 2025-07-03 | 2025-07-03 | 14:00 | 90
+PlayCourt BiWeekly Sync JKT - BDG Team 2 (July Week 1) | 2025-07-04 | 09:00 | 60
+Discussion Update Data Infra for Product in DBT with Agregation Team | 2025-07-04 | 13:00 | 60
+Discussion Support for SSL Update MySIIS.IO | 2025-07-04 | 14:00 | 60
+Checkpoint After Migration BigVision from Self-Hosted to Alibaba Cloud and BigEngine | 2025-07-04 | 14:00 | 90
+Prep/Rehearsal Migration Big Vision | 2025-07-02 | 16:00 | 120
+Checkpoint Migrasi OCA Product Family | 2025-07-03 | 09:00 | 90
+Checkpoint Migrasi BSP Product Family | 2025-07-03 | 14:00 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-04 | 09:00 | 60
+Discussion Update Data Infra Product in DBT 2025 | 2025-07-04 | 13:00 | 60
+Diskusi Kebutuhan SSL mysiis.co | 2025-07-04 | 14:00 | 30
+Review Hasil Go Live & Persiapan terminasi infra Big Vision | 2025-07-04 | 14:00 | 90
+Biweekly Meetup INS Playcourt | 2025-07-04 | 09:00 | 60
+Update Data Infra Product | 2025-07-04 | 13:00 | 60
+Diskusi Kebutuhan SSL mysiis.co | 2025-07-04 | 14:00 | 60
+Review Hasil Go Live & Persiapan terminasi infra Big Vision | 2025-07-04 | 14:00 | 90
+Checkpoint Weekly Satu Data Digital for Product PADI UMKM (July Week 2) | 2025-07-07 | 10:00 | 60
+Discussion Kick-Off and Go to Production Readiness for PADI Kasir will be used by Koperasi Merah Putih | 2025-07-07 | 10:00 | 90
+Kick Off GTM Readiness Produk PaDi Kasir sebagai Layanan Toko Sembako Koperasi Desa Merah Putih | 2025-07-07 | 10:00 | 90
+Diskusi POC dan Demo Casandra Huawei x DPE x INS x Pijarsekolah | 2025-07-08 | 13:30 | 70
+Diskusi Enhancement FABD Provisioning | 2025-07-08 | 15:00 | 60
+Pembahasan Opsi Solusi/Alternatif OBS Antares Cams | 2025-07-08 | 16:15 | 60
+Discussion FABD Enhancement for Provisioning Service and Webhook | 2025-07-08 | 15:00 | 60
+Discussion AntaresCam Solution for Storage to OBS Because Apps Identified as non Stateless Apps and No Source Code Access | 2025-07-08 | 16:00 | 60
+PlayCourt BiWeekly Sync JKT - BDG Team 1 (July Week 2) | 2025-07-09 | 09:00 | 60
+Checkpoint - BSP Product Family | 2025-07-03 | 14:00 | 60
+Biweekly Playcourt | 2025-07-04 | 09:00 | 60
+Review Hasil Go Live & Persiapan terminasi infra Big Vision | 2025-07-04 | 14:00 | 60
+Diskusi Kebutuhan SSL mysiis.co | 2025-07-04 | 14:00 | 30
+Diskusi terkait logging firewall DBT to elk CYS | 2025-07-07 | 14:00 | 60
+Asistensi deployment indentity v2 apim | 2025-07-07 | 15:00 | 60
+Diskusi POC dan Demo Casandra Huawei x DPE x INS x Pijarsekolah | 2025-07-08 | 13:30 | 60
+Opsi Solusi/Alternatif OBS Antares Cam | 2025-07-08 | 16:15 | 45
+Diskusi request akses mo ke device ats dbt | 2025-07-08 | 16:50 | 10
+Biweekly Meetup INS Playcourt | 2025-07-09 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-09 | 11:00 | 70
+Checkpoint Migration Antares Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 2) | 2025-07-09 | 11:00 | 60
+Checkpoint Migration Netmonk Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 2) | 2025-07-09 | 14:00 | 60
+Discussion Infra Support Needed for Hopscotch for Postman Replacement from DPE | 2025-07-09 | 15:30 | 60
+Discussion Performance Test PijarSekolah CBT 2.0 Troubleshoot | 2025-07-09 | 16:30 | 60
+Biweekly Meetup INS Playcourt - 2025-07-09 | 2025-07-09 | 09:00 | 60
+Diskusi Billing Huawei & Voucher Migrasi | 2025-07-09 | 10:00 | 60
+Checkpoint Migrasi Antares Product Family - 2025-07-09 | 2025-07-09 | 11:00 | 60
+Checkpoint Netmonk Product Family - 2025-07-09 | 2025-07-09 | 14:00 | 60
+Request Project Infra Hopscotch | 2025-07-09 | 16:00 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-09 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-09 | 11:00 | 60
+Checkpoint Migrasi Netmonk Product Family | 2025-07-09 | 14:00 | 60
+Diskusi Terkait Request Infra untuk Project Infra Hopscotch | 2025-07-09 | 15:30 | 60
+Review task internship talent related to Form request for Personal Data DTP Playcourt (UU PDP) | 2025-07-09 | 15:00 | 30
+Checkpoint Migrasi OCA Product Family - 2025-07-10 | 2025-07-10 | 16:00 | 60
+Checkpoint - BSP Product Family - 2025-07-10 | 2025-07-10 | 14:00 | 60
+Diskusi Implementasi DDOS Protection Plan Padi Kasir KDMP | 2025-07-10 | 15:30 | 60
+Review Billing & Voucher Huawei with Sigma | 2025-07-10 | 16:00 | 60
+Diskusi Issue SNAT Gateway with ABC Support | 2025-07-10 | 10:00 | 60
+Checkpoint Migration OCA Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 2) | 2025-07-10 | 09:00 | 60
+Discussion with Alibaba Cloud Related to SNAT in NAT Gateway Request Dropped Due to Client Port is Full | 2025-07-10 | 10:00 | 60
+Checkpoint Migration BSP Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 2) | 2025-07-10 | 14:00 | 60
+War Room Incident BigVision with BigEngine Team | 2025-07-10 | 15:00 | 60
+Discussion Implementation Azure DDoS Protection for Product PADI Kasir | 2025-07-10 | 15:30 | 60
+PlayCourt BiWeekly Sync JKT - BDG Team 2 (July Week 2) | 2025-07-11 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-10 | 09:00 | 60
+Diskusi dengan Alibaba Cloud terkait SNAT (NAT Gateway) Request Dropped | 2025-07-10 | 10:30 | 30
+Checkpoint - BSP Product Family | 2025-07-10 | 14:00 | 60
+Implementasi DDOS Protection di sub produk Padi Kasir (KDMP) | 2025-07-10 | 15:30 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-11 | 09:00 | 60
+Termination Data for Product Logee Production with DAG | 2025-07-11 | 10:00 | 90
+Diskusi Awal PoC OCA di Playcourt | 2025-07-11 | 10:00 | 30
+Eksekusi Terminasi logee eco (logee baru) di Production | 2025-07-11 | 10:00 | 90
+Biweekly Playcourt 11 Juli | 2025-07-11 | 09:00 | 60
+Biweekly Playcourt 8 Juli | 2025-07-08 | 09:00 | 60
+Diskusi POC Cassandra Huawei | 2025-07-08 | 13:30 | 90
+CP Migrasi Antares 9 Juli | 2025-07-09 | 11:00 | 60
+Inisiasi Project Hopssoth 9 Juli | 2025-07-09 | 15:30 | 60
+CP Migrasi OCA 10 Juli | 2025-07-10 | 09:00 | 60
+CP BSP 10 Juli | 2025-07-10 | 14:00 | 60
+Biweekly Meetup INS Playcourt - 2025-07-11 | 2025-07-11 | 09:00 | 60
+Diskusi Awal PoC OCA di Playcourt | 2025-07-11 | 10:00 | 60
+Terminasi Data Protection Logee | 2025-07-11 | 10:00 | 90
+Kick Off GTM Readiness Produk PaDi Kasir sebagai Layanan Toko Sembako Koperasi Desa Merah Putih | 2025-07-07 | 10:00 | 90
+Diskusi POC dan Demo Casandra Huawei x DPE x INS x Pijarsekolah | 2025-07-08 | 13:30 | 70
+Diskusi Enhancement FABD Provisioning | 2025-07-08 | 15:00 | 60
+Pembahasan Opsi Solusi/Alternatif OBS Antares Cams | 2025-07-08 | 16:15 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-09 | 09:00 | 60
+Diskusi Billing Huawei & Voucher Migrasi, etc | 2025-07-09 | 10:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-09 | 11:00 | 60
+Checkpoint Migrasi Netmonk Product Family | 2025-07-09 | 14:00 | 60
+Diskusi Terkait Request Infra untuk Project Infra Hopscotch | 2025-07-09 | 15:30 | 60
+Review task internship talent related to Form request for Personal Data DTP Playcourt (UU PDP) | 2025-07-09 | 15:00 | 30
+Checkpoint Migrasi OCA Product Family | 2025-07-10 | 09:00 | 60
+Diskusi dengan Alibaba Cloud terkait SNAT (NAT Gateway) Request Dropped | 2025-07-10 | 10:30 | 30
+Checkpoint - BSP Product Family | 2025-07-10 | 14:00 | 60
+Implementasi DDOS Protection di sub produk Padi Kasir (KDMP) | 2025-07-10 | 15:30 | 60
+Review Billing & Voucher Huawei | 2025-07-10 | 16:00 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-11 | 09:00 | 60
+Discussion Performance Test PijarSekolah CBT 2.0 Troubleshoot Part 2 | 2025-07-14 | 13:30 | 120
+Checkpoint Netmonk Product Family | 2025-07-09 | 14:00 | 60
+Request Project Infra Hopscotch | 2025-07-09 | 15:30 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-10 | 09:00 | 60
+Checkpoint - BSP Product Family | 2025-07-10 | 14:00 | 60
+Implementasi DDOS Protection di sub produk Padi Kasir (KDMP) | 2025-07-10 | 15:30 | 60
+Troubleshoot Bigvision Issue 503 | 2025-07-10 | 15:30 | 30
+Biweekly Playcourt | 2025-07-11 | 09:00 | 60
+Penghapusan Data Production Logee | 2025-07-11 | 10:00 | 60
+Diskusi IBM Watson Ai Chatbot | 2025-07-14 | 14:00 | 60
+Discussion Performance Test PijarSekolah CBT 2.0 Troubleshoot Part 3 (Closing) | 2025-07-15 | 15:00 | 90
+Discussion Performance Test PijarSekolah CBT 2.0 Troubleshoot Part 3 (Closing) | 2025-07-15 | 03:00 | 90
+BAST Agree Astil | 2025-07-15 | 15:00 | 30
+Diskusi Load Test Pijarsekolah - 2025-07-15 | 2025-07-15 | 15:00 | 60
+Biweekly Meetup INS Playcourt - 2025-07-16 | 2025-07-16 | 09:00 | 90
+Diskusi Internal Pembahasan Data Resourouce infra INS | 2025-07-16 | 10:15 | 60
+Checkpoint Migrasi Antares Product Family - 2025-07-16 | 2025-07-16 | 09:00 | 90
+Biweekly Meetup INS Playcourt - 2025-07-16 | 2025-07-16 | 09:00 | 90
+Checkpoint Migrasi Antares Product Family 16-07 | 2025-07-16 | 11:00 | 60
+Checkpoint Netmonk Product Family 16-07 | 2025-07-16 | 14:00 | 60
+Diskusi Konfirmasi Hasil Load Test & Next Action Pijar Sekolah | 2025-07-15 | 15:00 | 90
+PlayCourt BiWeekly Sync JKT - BDG Team 1 (July Week 3) | 2025-07-16 | 09:00 | 60
+Checkpoint Migration Antares Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 3) | 2025-07-16 | 11:00 | 60
+Checkpoint Migration Netmonk Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 3) | 2025-07-16 | 14:00 | 60
+Discussion with Huawei Cloud Related Backup Solutions, Billing, and PijarSekolah POC Preparation | 2025-07-16 | 15:00 | 60
+Discussion PijarSekolah Anti-DDoS Migration and Clarification with Security Team | 2025-07-17 | 10:00 | 60
+Checkpoint Migration OCA Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 3) | 2025-07-17 | 13:00 | 60
+Checkpoint Migration BSP Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 3) | 2025-07-17 | 14:00 | 60
+CP Migrasi OCA 17-07 | 2025-07-17 | 13:00 | 60
+CP Migrasi BSP 17-07 | 2025-07-17 | 14:00 | 30
+Checkpoint Migrasi OCA Product Family - 2025-07-17 | 2025-07-17 | 13:00 | 60
+Biweekly Playcourt 18-07-25 | 2025-07-18 | 09:00 | 60
+Diskusi POC Pijarsekolah x Huawei | 2025-07-18 | 14:30 | 40
+PlayCourt BiWeekly Sync JKT - BDG Team 2 (July Week 3) | 2025-07-18 | 09:00 | 60
+Discussion POC PijarSekolah with Huawei Cloud | 2025-07-18 | 13:30 | 120
+Troubleshoot PijarSekolah Prod Mingaration from NGINX Ingress to ALB Ingress | 2025-07-18 | 14:30 | 30
+Diskusi Anti DDoS untuk Pijar Sekolah | 2025-07-17 | 10:30 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-17 | 13:00 | 60
+Checkpoint Migrasi BSP Product Family | 2025-07-10 | 14:00 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-18 | 09:00 | 60
+POC Pijarsekolah x Huawei | 2025-07-18 | 13:30 | 120
+troubleshoot Failed Migrastion from Nginx Ingress to ALB Ingress | 2025-07-18 | 14:30 | 30
+Biweekly Meetup INS Playcourt - 2025-07-18 | 2025-07-18 | 09:00 | 60
+Diskusi Azure Communication with Sigma | 2025-07-18 | 13:00 | 60
+Diskusi POC Pijarsekolah dan Huawei | 2025-07-18 | 13:30 | 90
+Discussion Performance Test PijarSekolah CBT 2.0 Troubleshoot | 2025-07-14 | 13:00 | 120
+Diskusi Konfirmasi Hasil Load Test & Next Action Pijar Sekolah | 2025-07-15 | 15:00 | 90
+Biweekly Meetup INS Playcourt | 2025-07-16 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-16 | 11:00 | 60
+Checkpoint Netmonk Product Family | 2025-07-16 | 14:00 | 60
+Diskusi Anti DDoS untuk Pijar Sekolah | 2025-07-17 | 10:30 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-17 | 13:00 | 60
+Checkpoint Migrasi BSP Product Family | 2025-07-17 | 14:00 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-18 | 09:00 | 60
+POC Pijarsekolah x Huawei | 2025-07-18 | 13:30 | 120
+troubleshoot Failed Migrastion from Nginx Ingress to ALB Ingress | 2025-07-18 | 14:30 | 30
+D2P Cazz | 2025-07-15 | 20:00 | 90
+Biweekly Playcourt | 2025-07-16 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-16 | 11:00 | 60
+Checkpoint Netmonk Product Family | 2025-07-16 | 14:00 | 60
+INS x Huawei Project Discussion (truewatch, backup ke obss, poc pijar) | 2025-07-16 | 15:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-17 | 13:00 | 60
+Checkpoint - BSP Product Family | 2025-07-17 | 14:00 | 60
+Biweekly Playcourt | 2025-07-18 | 09:00 | 60
+POC Pijar Alignment | 2025-07-18 | 13:30 | 120
+Diskusi untuk solusi proxy antares eazy | 2025-07-21 | 14:30 | 60
+Checkpoint Weekly Satu Data Digital for Product PADI UMKM (July Week 4) | 2025-07-21 | 10:00 | 60
+POC Pijarsekolah Deployment | 2025-07-23 | 14:00 | 90
+Checkpoint Migration OCA Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 4) | 2025-07-23 | 09:30 | 60
+Checkpoint Migration Antares Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 4) | 2025-07-23 | 11:00 | 60
+Checkpoint Migration Netmonk Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 4) | 2025-07-23 | 14:00 | 60
+Discussion RKAP Cost Infras Forecast for 2026 | 2025-07-23 | 16:00 | 60
+Migrastion Pijar Sekolah (ack) from Nginx Ingress to ALB Ingress | 2025-07-18 | 22:00 | 180
+Internal Discussion Techops Playcourt | 2025-07-22 | 10:00 | 60
+Provision Infra in Huawei Cloud for POC Pijar Sekolah | 2025-07-22 | 14:00 | 120
+Biweekly Meetup Internal INS Playcourt | 2025-07-23 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-23 | 09:30 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-23 | 11:00 | 60
+Checkpoint Migrasi Netmonk Product Family | 2025-07-23 | 14:00 | 60
+Diskusi RKAP 2026 Cost Infra produk (INS) | 2025-07-23 | 16:00 | 60
+Biweekly Meetup INS Playcourt - 2025-07-23 | 2025-07-23 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family - 2025-07-23 | 2025-07-23 | 10:00 | 60
+Checkpoint Migrasi Antares Product Family - 2025-07-23 | 2025-07-23 | 11:00 | 60
+Kebutuhan Infra BSP | 2025-07-23 | 14:00 | 60
+Infra cost INS produk RKAP 2026 | 2025-07-23 | 16:00 | 60
+Checkpoint Migration BSP Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 4) | 2025-07-24 | 14:30 | 60
+Diskusi OKR 2026 | 2025-07-23 | 11:00 | 60
+Checkpoint Weekly Satu Data Digital for Product PADI UMKM | 2025-07-21 | 10:00 | 60
+POC Pijar Deployment | 2025-07-22 | 14:00 | 120
+PlayCourt BiWeekly Sync JKT - BDG Team 2 (July Week 4) | 2025-07-25 | 09:00 | 60
+Discussion POC PijarSekolah with Huawei Cloud Part 2 | 2025-07-25 | 14:00 | 120
+Biweekly Meetup Internal INS Playcourt | 2025-07-23 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-23 | 09:30 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-23 | 11:00 | 60
+Checkpoint Netmonk Product Family | 2025-07-23 | 14:00 | 60
+Infra Cost INS produk RKAP 2026 | 2025-07-23 | 16:00 | 60
+Checkpoint Migrasi BSP Product Family | 2025-07-24 | 14:30 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-25 | 09:00 | 60
+Review Optimasi database Production OCA | 2025-07-25 | 10:30 | 60
+Checkpoint POC PijarSekolah on Huawei Cloud | 2025-07-25 | 14:00 | 60
+Checkpoint - BSP Product Family | 2025-07-24 | 14:30 | 60
+Discussion OCA Infra Resource Database Optimization in Alibaba Cloud | 2025-07-25 | 10:30 | 60
+Biweekly Meetup Internal INS Playcourt | 2025-07-25 | 09:00 | 60
+Review Optimasi database Production OCA | 2025-07-25 | 10:30 | 60
+Checkpoint POC PijarSekolah on Huawei Cloud | 2025-07-25 | 14:00 | 60

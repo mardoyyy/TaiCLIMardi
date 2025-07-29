@@ -1,0 +1,31 @@
+36629
+Sosialization SSL Update for telkom.co.id Domain with DIT and All Product Team | 2025-07-01 | 13:30 | 90
+PlayCourt BiWeekly Sync JKT - BDG Team 1 (July Week 1) | 2025-07-02 | 09:00 | 60
+Checkpoint Migration Antares Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-02 | 11:00 | 60
+Discussion LLM Observability with TrueWatch x DAG x BigEngine | 2025-07-02 | 13:00 | 90
+Checkpoint Migration Netmonk Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-02 | 14:00 | 60
+Sosialisasi rencana update SSL Cert domain.telkom.co.id | 2025-07-01 | 13:30 | 90
+Biweekly Playcourt | 2025-07-02 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-02 | 11:00 | 60
+LLM Observability with Truewatch | 2025-07-02 | 13:00 | 90
+Review task internship talent related to Form request for Personal Data DTP Playcourt (UU PDP) | 2025-07-01 | 11:00 | 60
+Sosialisasi rencana update SSL Cert domain.telkom.co.id | 2025-07-01 | 13:30 | 90
+Biweekly Meetup Internal Playcourt | 2025-07-02 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-02 | 11:00 | 60
+LLM Observability Discussion with Truewatch | 2025-07-02 | 13:00 | 90
+Checkpoint Netmonk Product Family | 2025-07-02 | 14:00 | 120
+Rehearsal Test Migration BigVision | 2025-07-02 | 16:00 | 120
+Checkpoint Migration OCA Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-03 | 09:00 | 60
+Checkpoint Migration BSP Product Family from Self-Hosted to Huawei Cloud / Alibaba Cloud (July Week 1) | 2025-07-03 | 14:00 | 60
+Checkpoint Aktivitas PM-Q2 dan Pengecekan Cluster Openstack | 2025-06-30 | 10:00 | 60
+Sosialisasi rencana update SSL Cert domain.telkom.co.id | 2025-07-01 | 13:30 | 150
+Biweekly Playcourt | 2025-07-02 | 09:00 | 60
+Checkpoint Migrasi Antares Product Family | 2025-07-02 | 11:00 | 60
+LLLM Observability with Truewatch | 2025-07-02 | 13:00 | 90
+Checkpoint Netmonk Product Family | 2025-07-02 | 14:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-03 | 09:00 | 60
+Checkpoint Migrasi OCA Product Family | 2025-07-03 | 09:00 | 60
+Checkpoint - BSP Product Family | 2025-07-03 | 14:00 | 60
+Checkpoint Migrasi OCA Product Family - 2025-07-03 | 2025-07-03 | 10:00 | 60
+Checkpoint - BSP Product Family - 2025-07-03 | 2025-07-03 | 14:00 | 90
+PlayCourt BiWeekly Sync JKT - BDG Team 2 (July Week 1) | 2025-07-04 | 09:00 | 60
